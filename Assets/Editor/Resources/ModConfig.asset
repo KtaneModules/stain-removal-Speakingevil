@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: stainRemoval
+  title: Stain Removal
+  author: Speakingevil
+  description: 'With our range of products, you can clean any mess. Wash it off! Dry
+    it off! Jerk it off! We don''t care what you do with them or where the stains
+    even came from! Silks! Suedes! Swag! Remember, the fluids you find are yours to
+    do with as you please. Now get out of my house!
+
+
+    Remove the stain from the fabric by applying the correct cleaning solutions to
+    the right spots.'
+  version: 1.0
+  outputFolder: build
+  previewImage: {fileID: 2800000, guid: ac3e8381397b53847b707b6f408b3475, type: 3}
